@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api?username=pedromedelc
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromedelc&show_icons=true&theme=radical)
+
 
 <!--
 **pedromedelc/pedromedelc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
